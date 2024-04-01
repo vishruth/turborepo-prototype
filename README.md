@@ -15,6 +15,8 @@ relatedTemplates:
   - turborepo-sveltekit-starter
 ---
 
+Site available here: https://turborepo-prototype.vercel.app/
+
 # Monorepo
 
 This is a monorepo example with a single Next.js site ([./apps/app](./apps/app)) that has installed two local packages:
